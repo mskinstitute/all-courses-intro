@@ -1,4 +1,4 @@
----
+
 > Are you looking to kickstart your career in programming or web development? Our **Python Basic Course** at MSK Institute in Shikohabad is designed to help students, beginners, and professionals learn Python from scratch. Python is one of the most popular programming languages worldwide, widely used in **software development, web development, data analysis, artificial intelligence (AI), and automation**. This 1-month course is ideal for anyone who wants to understand the fundamentals of Python and start building projects immediately.
 >
 > In this comprehensive Python course, you will begin with the basics of programming, including **variables, data types, loops, and conditional statements**. You will then explore Python’s **functions, modules, and object-oriented programming (OOP)** concepts, gaining hands-on experience through real-time exercises. Our curriculum is designed to be practical, with each lesson focusing on **coding exercises, mini-projects, and problem-solving skills** to ensure you learn effectively.
