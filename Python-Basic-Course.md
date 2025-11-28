@@ -1,4 +1,3 @@
-
 > Are you looking to kickstart your career in programming or web development? Our **Python Basic Course** at MSK Institute in Shikohabad is designed to help students, beginners, and professionals learn Python from scratch. Python is one of the most popular programming languages worldwide, widely used in **software development, web development, data analysis, artificial intelligence (AI), and automation**. This 1-month course is ideal for anyone who wants to understand the fundamentals of Python and start building projects immediately.
 >
 > In this comprehensive Python course, you will begin with the basics of programming, including **variables, data types, loops, and conditional statements**. You will then explore Python’s **functions, modules, and object-oriented programming (OOP)** concepts, gaining hands-on experience through real-time exercises. Our curriculum is designed to be practical, with each lesson focusing on **coding exercises, mini-projects, and problem-solving skills** to ensure you learn effectively.
@@ -9,8 +8,9 @@
 >
 > Join our Python Basic Course and take the first step towards a rewarding career in programming. Whether you aim to become a **Python developer, software engineer, or data analyst**, this course will give you a strong foundation in coding principles and Python programming. Enroll today and start your journey into the world of technology with **practical Python skills**. MSK Institute ensures a hands-on learning environment that makes programming **easy, engaging, and effective** for all learners.
 
+---
+---
 **Categories:** Programming, Software Development, Coding Bootcamp
-
 ---
 
 ### **Additional Sections**
@@ -34,11 +34,6 @@
 * Data Analyst (entry-level)
 * Automation Specialist
 
-**Requirements:**
-
-* Basic computer knowledge
-* Curiosity to learn programming
-
 **What You Will Learn:**
 
 * Python syntax, variables, and data types
@@ -47,4 +42,9 @@
 * Introduction to Object-Oriented Programming (OOP)
 * Basic problem-solving with Python
 
+**Requirements:**
+
+* Basic computer knowledge
+* Curiosity to learn programming
+---
 ---
