@@ -9,12 +9,6 @@ ADCA is especially useful for students applying for government exams and private
 By the end of the course, learners will have completed **real-world projects** in MS-Office, Tally, and graphic/web designing, making their portfolio strong for employment. Whether you are a beginner wanting to start your computer journey or a professional wanting higher computer proficiency, the **ADCA Course at MSK Institute** is the best choice for long-term career development.
 
 ---
-## **Course Details**
-
-**Categories:** Computer Basics, Office Productivity, Accounting, Designing, Web Basics
----
-
-## **Additional Sections**
 
 ### **Why Learn ADCA**
 
@@ -23,12 +17,16 @@ By the end of the course, learners will have completed **real-world projects** i
 * Covers office work, designing, and accounting skills
 * Opens multiple job profiles
 
+---
+
 ### **Who Can Join**
 
 * Students after 10th or 12th
 * Graduates preparing for jobs
 * Working professionals
 * Housewives and beginners
+
+---
 
 ### **Career Opportunities**
 
@@ -40,6 +38,8 @@ By the end of the course, learners will have completed **real-world projects** i
 * Web Assistant
 * Receptionist / MIS Executive
 
+---
+
 ### **What You Will Learn**
 
 * MS-Office complete
@@ -50,6 +50,8 @@ By the end of the course, learners will have completed **real-world projects** i
 * HTML & CSS basics
 * Data entry and formatting
 * Office documentation and reporting
+
+---
 
 ### **Requirements**
 
