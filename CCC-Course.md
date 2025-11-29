@@ -11,10 +11,6 @@ Our institute uses **interactive teaching methods, practical labs, real-life exa
 By the end of the training, students will be able to operate computers efficiently, prepare documents, manage data, create presentations, browse the internet safely, use online government services, handle emails professionally, and understand digital financial tools such as UPI, Net Banking, and online transactions. With the rising demand for digitally skilled candidates, completing the CCC course gives you an advantage in the job market.
 
 ---
-**Categories:** Computer Basics, Government Exam Courses, Digital Literacy
----
-
-## **Additional Sections**
 
 ### **Why Learn CCC**
 
@@ -23,12 +19,16 @@ By the end of the training, students will be able to operate computers efficient
 * Builds confidence in digital literacy
 * Helps in handling online and digital financial services
 
+---
+
 ### **Who Can Join**
 
 * Students preparing for government jobs
 * Beginners who want to learn computers
 * Working professionals
 * Housewives and senior citizens
+
+---
 
 ### **Career Opportunities**
 
@@ -37,6 +37,8 @@ By the end of the training, students will be able to operate computers efficient
 * Data Entry Operator
 * Receptionist
 * Government Job Eligibility (where CCC is mandatory)
+
+---
 
 ### **What You Will Learn**
 
@@ -47,6 +49,8 @@ By the end of the training, students will be able to operate computers efficient
 * Cyber safety & online security
 * Digital financial literacy
 * Online government services
+
+---
 
 ### **Requirements**
 
